@@ -41,4 +41,5 @@ ft_isascii
 ft_isprint
 ft_toupper
 ft_tolower
+
 The usage of each function is explained in the documentation in the library files.
